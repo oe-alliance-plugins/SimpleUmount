@@ -1,0 +1,24 @@
+{
+  "depends": "",
+  "description": "Simple umounter mass storage device",
+  "legacy_setup": {
+    "description": "Simple umounter mass storage device",
+    "has_setup_translate": true,
+    "name": "enigma2-plugin-extensions-simpleumount",
+    "package_data": [],
+    "package_dir_value": "",
+    "packages": [],
+    "pkg": "Extensions.SimpleUmount",
+    "version": "0.10"
+  },
+  "module_dir_name": "SimpleUmount",
+  "package_name": "enigma2-plugin-extensions-simpleumount",
+  "plugin_group": "extensions",
+  "source_repo_branch": "python3",
+  "source_repo_name": "e2openplugin-SimpleUmount",
+  "source_repo_url": "https://github.com/E2OpenPlugins/e2openplugin-SimpleUmount.git",
+  "target_repo_branch": "main",
+  "target_repo_name": "SimpleUmount",
+  "target_repo_url": "git@github.com:oe-alliance-plugins/SimpleUmount.git",
+  "version": "0.10"
+}
