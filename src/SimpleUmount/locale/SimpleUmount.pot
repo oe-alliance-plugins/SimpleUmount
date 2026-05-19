@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the SimpleUmount package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: SimpleUmount\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-12 15:57+0100\n"
+"POT-Creation-Date: 2026-04-12 21:14+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,51 +17,46 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: plugin.py:65
-msgid "Select device and press OK to umount or EXIT to quit"
-msgstr ""
-
-#: plugin.py:66
-msgid "DEVICE"
-msgstr ""
-
-#: plugin.py:67
-msgid "MOUNTED ON"
-msgstr ""
-
-#: plugin.py:68
-msgid "TYPE"
-msgstr ""
-
-#: plugin.py:69
-msgid "SIZE"
-msgstr ""
-
-#: plugin.py:90
-msgid "umount return code"
-msgstr ""
-
-#: plugin.py:93
+#: ../plugin.py:120
 msgid "Cannot umount device"
 msgstr ""
 
-#: plugin.py:101
+#: ../plugin.py:78
+msgid "DEVICE"
+msgstr ""
+
+#: ../plugin.py:79
+msgid "MOUNTED ON"
+msgstr ""
+
+#: ../plugin.py:128
 msgid "Really umount device"
 msgstr ""
 
-#: plugin.py:111
-msgid "WARNING: cannot read any mount point"
+#: ../plugin.py:81
+msgid "SIZE"
 msgstr ""
 
-#: plugin.py:112
-msgid "probably no mass storage device inserted"
+#: ../plugin.py:77
+msgid "Select device and press OK to umount or EXIT to quit"
 msgstr ""
 
-#: plugin.py:145
-msgid "Simple mass storage umounter extension"
-msgstr ""
-
+#: ../plugin.py:93
 msgid "Show only removable devices"
 msgstr ""
 
+#: ../plugin.py:192
+msgid "Simple mass storage umounter extension"
+msgstr ""
 
+#: ../plugin.py:192
+msgid "SimpleUmount"
+msgstr ""
+
+#: ../plugin.py:80
+msgid "TYPE"
+msgstr ""
+
+#: ../plugin.py:119
+msgid "umount return code"
+msgstr ""
